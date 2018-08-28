@@ -1,6 +1,6 @@
 # Large file
 skip-gram/
-UD-data/
+UD_data/
 *.h5
 
 # Byte-compiled / optimized / DLL files
